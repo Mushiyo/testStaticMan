@@ -16,7 +16,7 @@ comments:
   branch: "master"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "You've got a new message!"
+  commitMessage: "{options.title}有新留言喔！"
 
   # (*) REQUIRED
   #
