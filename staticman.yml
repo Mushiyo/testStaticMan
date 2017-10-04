@@ -21,7 +21,7 @@ comments:
   # (*) REQUIRED
   #
   # Destination path (filename) for the data files. Accepts placeholders.
-  filename: "comment_{@date:YYYY-MM-DD-hh-mm-ss}"
+  filename: "comment_{@date:YYYY-MM-DD-HH-mm-ss}"
 
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
